@@ -139,7 +139,5 @@ public class VeiculosMaritmos {
         System.out.println("Velocidade max: "+getVelocidadeMax());
         System.out.println("Preco: "+getPreco());
         motor1.imprimir();
-    }
-    
-    
+    } 
 }
